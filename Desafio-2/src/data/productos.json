@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Mate",
+        "description": "El más rico",
+        "price": "1500",
+        "code": "abc123",
+        "stock": 150,
+        "id": 1
+    }
+]
